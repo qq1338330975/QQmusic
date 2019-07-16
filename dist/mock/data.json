@@ -1,0 +1,38 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "River",
+        "album": "Nine Track Mind Deluxe",
+        "singer": "Charlie Puth",
+        "duration": 191,
+        "isLike": true
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "Pretty Girl",
+        "album": "2 Pretty Girl (Cheat Codes X CADE Remix)",
+        "singer": "Cheat Codes",
+        "duration": 193,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "Shape of You",
+        "album": "÷",
+        "singer": "ed sheeran",
+        "duration": 235,
+        "isLike": false
+    },
+    {
+        "image": "/source/song_4.jpg",
+        "audio": "/source/song_4.mp3",
+        "song": "霜雪千年",
+        "album": "排骨翻唱合集",
+        "singer": "排骨教主",
+        "duration": 240,
+        "isLike": false
+    }
+]
